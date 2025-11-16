@@ -23,9 +23,9 @@ README.md
 
 <p>
   <img alt="Android SDK 36" src="https://img.shields.io/badge/Android%20SDK-36-3DDC84?logo=android">
-  <img alt="Kotlin 2.2.20" src="https://img.shields.io/badge/Kotlin-2.2.20-9966FF?logo=kotlin">
-  <img alt="AGP 9.0" src="https://img.shields.io/badge/AGP-9.0.0-4285F4?logo=android">
-  <img alt="Gradle 9.1" src="https://img.shields.io/badge/Gradle-9.1-02303A?logo=gradle">
+  <img alt="Kotlin 2.2.20" src="https://img.shields.io/badge/Kotlin-2.3.0-beta1-9966FF?logo=kotlin">
+  <img alt="AGP 9.0" src="https://img.shields.io/badge/AGP-9.0.0alpha14-4285F4?logo=android">
+  <img alt="Gradle 9.1" src="https://img.shields.io/badge/Gradle-9.2.0-02303A?logo=gradle">
   <img alt="License" src="https://img.shields.io/badge/License-Proprietary—All%20Rights%20Reserved-AA0000">
 </p>
 
